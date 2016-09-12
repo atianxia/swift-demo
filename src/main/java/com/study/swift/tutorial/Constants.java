@@ -1,8 +1,8 @@
 package com.study.swift.tutorial;
 
-import com.facebook.swift.codec.*;
-import com.google.common.collect.*;
-import java.util.*;
+import java.util.Map;
+
+import com.google.common.collect.ImmutableMap;
 
 public final class Constants
 {
