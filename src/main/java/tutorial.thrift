@@ -63,6 +63,7 @@ include "shared.thrift"
  * target languages.
  */
 namespace java.swift com.study.swift.tutorial
+namespace java com.study.swift.shared
 
 /**
  * Thrift lets you do typedefs to get pretty names for your types. Standard

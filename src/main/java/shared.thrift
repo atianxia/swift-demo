@@ -23,6 +23,7 @@
  */
 
 namespace java.swift com.study.swift.shared
+namespace java com.study.swift.shared
 
 
 struct SharedStruct {
